@@ -27,7 +27,7 @@ startup
 	settings.Add("Split Type", true, "Split Type");
 	settings.CurrentDefaultParent = "Split Type";
 	settings.Add("MissionStart", true, "MissionStart");
-	settings.Add("MissionEnd", true, "MissionEnd");
+	settings.Add("MissionEnd", false, "MissionEnd");
 	settings.Add("Rampage", true, "Rampage");
 	settings.Add("Collectibles", true, "Collectibles");
 	settings.Add("Unique Stunt Jump", true, "Unique Stunt Jump");

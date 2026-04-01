@@ -117,9 +117,6 @@ split
 		return true;
 		}
 	}
-	
-	// Final Split
-	return current.Mission == 69 && old.Mission == 68;
 }
 
 reset

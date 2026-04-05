@@ -124,7 +124,7 @@ split
 
 reset
 {
-    return current.Text == 1 && current.Strt == 0 && old.Strt == 1 && current.Misson < 2;
+    return current.Text == 1 && current.Strt == 0 && old.Strt == 1;
 }
 
 exit
